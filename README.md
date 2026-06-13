@@ -105,5 +105,3 @@ use PHPMailer\PHPMailer\Exception;
 ```
 
 ---
-
-*Institut Teknologi dan Bisnis STIKOM Bali - Always The First*
