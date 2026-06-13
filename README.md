@@ -1,7 +1,7 @@
 # Tugas Pertemuan 11 - Library PHP PHPMailer
 Komang Santika Juliartha (240040045)
 
-**Mata Kuliah:** Pemrograman Web  
+**Mata Kuliah:** Pemrograman Web Sisi Server 
 **Topik:** Library PHP - PHPMailer  
 **Dosen:** Gede Herdian Setiawan, S.Kom., M.T.
 
@@ -18,7 +18,7 @@ Studi kasus yang digunakan adalah **mengirim email konfirmasi pendaftaran akun**
 
 | Library | Versi | Fungsi |
 |---|---|---|
-| phpmailer/phpmailer | ^6.9 | Pengiriman email via SMTP Google |
+| phpmailer/phpmailer | 6.9 | Pengiriman email via SMTP Google |
 
 ---
 
@@ -105,5 +105,3 @@ use PHPMailer\PHPMailer\Exception;
 ```
 
 ---
-
-*Institut Teknologi dan Bisnis STIKOM Bali - Always The First*
